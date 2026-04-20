@@ -6,3 +6,5 @@ class Mahasiswa {
         int nim;
         string nama;
         float nilai;
+
+        void printData(){
